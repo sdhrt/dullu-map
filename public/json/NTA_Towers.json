@@ -1,0 +1,108 @@
+{
+    "type": "tower",
+    "name": "NTA_Towers",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "NTA Tower 1 Malika Danda",
+                "_id": null,
+                "amenity": null,
+                "phone": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6409713787736,
+                    28.802842944030001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Repeater Tower Mahadev",
+                "_id": null,
+                "amenity": null,
+                "phone": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.614390375746197,
+                    28.8863884324868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "NTA Tower 2 Kot Thala",
+                "_id": null,
+                "amenity": null,
+                "phone": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.577934118195699,
+                    28.849104371883399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "NTA Tower 3 Patangini School",
+                "_id": null,
+                "amenity": null,
+                "phone": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.604697718733405,
+                    28.8643980677579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Laxmi Aadharbhut Vidyalaya Basnepati",
+                "_id": "node\/9688109957",
+                "amenity": "school",
+                "phone": 9848062931
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.616531252070203,
+                    28.808425955475801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "NTA Tower 5",
+                "_id": null,
+                "amenity": null,
+                "phone": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.660519314238002,
+                    28.783771886171401
+                ]
+            }
+        }
+    ]
+}

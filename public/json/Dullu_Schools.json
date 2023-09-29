@@ -1,0 +1,876 @@
+{
+    "type": "schools",
+    "name": "Dullu_Schools",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Saraswati devi Madhyamik Vidyalaya Binayak",
+                "_id": "node\/9688109949",
+                "amenity": "school",
+                "phone": 9748027000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6532404,
+                    28.7958079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Kalika Madhyamik Vidyalaya Hadeaawat",
+                "_id": "node\/9688109951",
+                "amenity": "school",
+                "phone": 9848076419
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.631395005871298,
+                    28.789802388146398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Kalika Aadharbhut Vidyalaya Shahuwada",
+                "_id": "node\/9688109927",
+                "amenity": "school",
+                "phone": 9848074264
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.613053,
+                    28.8675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Bhairab Aadharbhut Vidyalaya Tuldhara",
+                "_id": "node\/9688109928",
+                "amenity": "school",
+                "phone": 9848062522
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.59855,
+                    28.8232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Chadung Aadharbhut Vidyalaya Kunkatiya",
+                "_id": "node\/9688109929",
+                "amenity": "school",
+                "phone": 9814543010
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.637992824104401,
+                    28.779866710153001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Deutisthan Aadharbhut Vidyalaya Baskot",
+                "_id": "node\/9688109930",
+                "amenity": "school",
+                "phone": 948118565
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.637387186954598,
+                    28.785000692772901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Bhairab Aadharbhut Vidyalaya Jhap",
+                "_id": "node\/9688109931",
+                "amenity": "school",
+                "phone": 9869734519
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.62361,
+                    28.7865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Nepal Rastriya Aadharbhut Vidyalaya Rijupokhari",
+                "_id": "node\/9688109933",
+                "amenity": "school",
+                "phone": 9848058774
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6053669,
+                    28.830096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Bhairab Aadharbhut Vidyalaya Daha",
+                "_id": "node\/9688109934",
+                "amenity": "school",
+                "phone": 9848117215
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.654381372774097,
+                    28.7740057967696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Suryoday Madhyamik Vidyalaya Lamshu",
+                "_id": "node\/9688109935",
+                "amenity": "school",
+                "phone": 985118750
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6652538,
+                    28.7809877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Janata Aadharbhut Vidyalaya Jumlesaal",
+                "_id": "node\/9688109936",
+                "amenity": "school",
+                "phone": 9848063167
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6753212,
+                    28.7904532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Bhairab Aadharbhut Vidyalaya Lamagada",
+                "_id": "node\/9688109937",
+                "amenity": "school",
+                "phone": 9868011383
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6776174,
+                    28.8026654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Bhanu Madhyamik Vidyalaya Toraya Kaalbhairab",
+                "_id": "node\/9688109938",
+                "amenity": "school",
+                "phone": 9868078800
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.665707,
+                    28.8055344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Vijaya Madhyamik Vidyalaya",
+                "_id": "node\/9688109939",
+                "amenity": "school",
+                "phone": 9858051752
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.5992987,
+                    28.8546386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Santisrijana Aadharbhut Vidyalaya",
+                "_id": "node\/9688109940",
+                "amenity": "school",
+                "phone": 9848114385
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.592220692561696,
+                    28.850042914266599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Janakalyan Aadharbhut Vidyalaya Tuldhara",
+                "_id": "node\/9688109941",
+                "amenity": "school",
+                "phone": 9848164839
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6518202,
+                    28.8043938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Dipendra Aadharbhut Vidyalaya Bhukaka",
+                "_id": "node\/9688109942",
+                "amenity": "school",
+                "phone": 9848075653
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6678081,
+                    28.8199751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Jwala Aadharbhut Vidyalaya Bhukaha",
+                "_id": "node\/9688109943",
+                "amenity": "school",
+                "phone": 9848039776
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6578016,
+                    28.8156273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Bindrawasini Aadharbhut Vidyalaya Chuwala",
+                "_id": "node\/9688109944",
+                "amenity": "school",
+                "phone": 9826506395
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6391534,
+                    28.8241881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Maibhagwati Aadharbhut Vidyalaya Bijaura",
+                "_id": "node\/9688109945",
+                "amenity": "school",
+                "phone": 9864829343
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6655762,
+                    28.8315675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Indrajwala Aadharbhut Vidyalaya Gamaudi",
+                "_id": "node\/9688109946",
+                "amenity": "school",
+                "phone": 9848062993
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6600888,
+                    28.8373527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Panchakoshi Madhyamik Vidyalaya Gamaudi",
+                "_id": "node\/9688109947",
+                "amenity": "school",
+                "phone": 9848116969
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6411302,
+                    28.8335743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree krishna Aadharbhut Vidyalaya Sathkhamba",
+                "_id": "node\/9688109948",
+                "amenity": "school",
+                "phone": 9848066536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6235599,
+                    28.8417593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Kalikadevi Madhyamik Vidyalaya Kalikasthan",
+                "_id": "node\/9688109950",
+                "amenity": "school",
+                "phone": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6399585,
+                    28.7880259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Jayajanata Aadharbhut Vidyalaya Bikurekot",
+                "_id": "node\/9688109952",
+                "amenity": "school",
+                "phone": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6170691,
+                    28.8000362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Saraswati Aadharbhut Vidyalaya Khatigaida",
+                "_id": "node\/9688109953",
+                "amenity": "school",
+                "phone": 9748025268
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6063795,
+                    28.7927824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Nira Madhyamik Vidyalaya",
+                "_id": "node\/9688109954",
+                "amenity": "school",
+                "phone": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.5978912,
+                    28.7968377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Nepal Rastriya Ma Vidyalaya Lekhalgau",
+                "_id": "node\/9688109955",
+                "amenity": "school",
+                "phone": 9868146886
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6009293,
+                    28.8041302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Pancheshwori Aadharbhut Vidyalaya Lujai",
+                "_id": "node\/9688109956",
+                "amenity": "school",
+                "phone": 9848011570
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.5954571,
+                    28.80394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Mahehdra Jayadevi Madhyamik Vidyalaya Chhiudi",
+                "_id": "node\/9688109958",
+                "amenity": "school",
+                "phone": 9848080994
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6306946,
+                    28.8273359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Janakalyan Aadharbhut Vidyalaya Pathernauli",
+                "_id": "node\/9688109959",
+                "amenity": "school",
+                "phone": 9869517657
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6065528,
+                    28.8549931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree hanuman Aadharbhut Vidyalaya Baspani",
+                "_id": "node\/9688109960",
+                "amenity": "school",
+                "phone": 9868374678
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6131129,
+                    28.8770866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Mahadev Aadharbhut Vidyalaya Ghiyatidu",
+                "_id": "node\/9688109961",
+                "amenity": "school",
+                "phone": 9858042484
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.614487165089301,
+                    28.8862677705363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Navadurga Aadharbhut Vidyalaya Bhajhaniyapokari",
+                "_id": "node\/9688109962",
+                "amenity": "school",
+                "phone": 9815585106
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.5932564,
+                    28.8856072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Panchakoshi Aadharbhut Vidyalaya Pyadura",
+                "_id": "node\/9688109963",
+                "amenity": "school",
+                "phone": 9867936772
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.5506931,
+                    28.8925086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Premdevi Madhyamik Vidyalaya Paduka",
+                "_id": "node\/9688109964",
+                "amenity": "school",
+                "phone": 9867936772
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.5681198,
+                    28.8911813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Panchakoshi Bahu Prabidhi Vidyalaya",
+                "_id": "node\/9688109965",
+                "amenity": "school",
+                "phone": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6063993,
+                    28.8811036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Hanuman Aadharbhut Vidyalaya Pauwa",
+                "_id": "node\/9688109966",
+                "amenity": "school",
+                "phone": 9848396617
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6094691,
+                    28.8740435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Nepal Rastriya Madhyamik Vidyalaya Kritikhamba",
+                "_id": "node\/9688109967",
+                "amenity": "school",
+                "phone": 9867362332
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6054179,
+                    28.8648423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Vijaya Madhyamik Vidyalaya",
+                "_id": "node\/9688109968",
+                "amenity": "school",
+                "phone": 9858051752
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.5977609,
+                    28.8594707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Panchadeval Aadharbhut Vidyalaya Tallipau",
+                "_id": "node\/9688109969",
+                "amenity": "school",
+                "phone": 9868005670
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.5853886,
+                    28.8609261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Nepal Rastriya Aadharbhut Vidyalaya Maurikot",
+                "_id": "node\/9688109970",
+                "amenity": "school",
+                "phone": 9858050254
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.5747078,
+                    28.8689575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Gagan Janjyoti Aadharbhut Vidyalaya Pokharipati",
+                "_id": "node\/9688109971",
+                "amenity": "school",
+                "phone": 9864824463
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.567633,
+                    28.8713196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Mastanarayan Aadharbhut Vidyalaya",
+                "_id": "node\/9688109972",
+                "amenity": "school",
+                "phone": 9848188881
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.558171449268499,
+                    28.868466234881801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Krishna Aadharbhut Vidyalaya Narikamulpani",
+                "_id": "node\/9688109973",
+                "amenity": "school",
+                "phone": 9844814278
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.5480049,
+                    28.8702303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Bhairab Aadharbhut Vidyalaya Siyala",
+                "_id": "node\/9688109974",
+                "amenity": "school",
+                "phone": 9748034556
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.5484879,
+                    28.8404596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Nareshwar Udhyamshil Aadharbhut Vidyalaya Prabhusthan",
+                "_id": "node\/9688109975",
+                "amenity": "school",
+                "phone": 9848020797
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.558640422970598,
+                    28.853787210111701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Saraswati Madhyamik Vidyalaya Krishnakot",
+                "_id": "node\/9688109976",
+                "amenity": "school",
+                "phone": 9858050385
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.5672947,
+                    28.8587927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sheree Malika Aadharbhut Vidyalaya Dharapani",
+                "_id": "node\/9688109977",
+                "amenity": "school",
+                "phone": 9748020502
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.5801444,
+                    28.8418659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Nepal Rastriya Aadharbhut Vidyalaya Bhuwachour",
+                "_id": "node\/9688109978",
+                "amenity": "school",
+                "phone": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.5764205,
+                    28.8318845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Bhanesgwor Madhyamik Vidyalaya",
+                "_id": "node\/9688109979",
+                "amenity": "school",
+                "phone": 9867787357
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.580212,
+                    28.8293004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Nepal Rastriya Aadharbhut Vidyalaya Deutichaur",
+                "_id": "node\/9688109980",
+                "amenity": "school",
+                "phone": 9868353483
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.5825171,
+                    28.8200182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shree Deepjyoti Aadharbhut Vidhyalaya Gauri",
+                "_id": "node\/9688109981",
+                "amenity": "school",
+                "phone": 9858089780
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.6677,
+                    28.7768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": " Laxmi Aadharbhut Vidyalaya Basnepati",
+                "_id": null,
+                "amenity": null,
+                "phone": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.615753480127793,
+                    28.816463594417101
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,220 @@
+{
+    "type": "points",
+    "name": "Locations",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "NTA T3 to NTA T1 via OFC and WL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.607743601639001,
+                    28.864747150335798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Dullu Municipality Office"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.603381072463904,
+                    28.8578102347889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "W01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.583009743323103,
+                    28.819942691611299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "W02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.57865,
+                    28.84057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "W03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.56943,
+                    28.86603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "W04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.580461349822798,
+                    28.857312464707501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "W05"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.617768760497498,
+                    28.8417752178208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "W06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.623792689695406,
+                    28.816871354712699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "W07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.602229515869894,
+                    28.857466112258098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "W08"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.608112067308198,
+                    28.873831349877499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "W09"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.59285,
+                    28.88494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "W10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.642466978303204,
+                    28.834708087763101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "W11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.665623552036294,
+                    28.805678388856901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "W12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.664811393690201,
+                    28.780915642018002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "W13 (Malika)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.628366666666693,
+                    28.789197222222199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Dullu Hospital"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.603720293238098,
+                    28.8528669401603
+                ]
+            }
+        }
+    ]
+}

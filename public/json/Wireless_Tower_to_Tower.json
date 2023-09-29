@@ -1,0 +1,88 @@
+{
+    "type": "routes_tower",
+    "name": "Wireless_Tower_to_Tower",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "NTA T1 to Connector to NTA T3"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        81.607677999820396,
+                        28.864696030126101
+                    ],
+                    [
+                        81.641023122368296,
+                        28.802837004523099
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "NTA 2 Kotthala to NTA T4 Basnepati"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        81.616583184844202,
+                        28.808568568367502
+                    ],
+                    [
+                        81.577730006518294,
+                        28.849198287445599
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "NTA T2 to NTA T3"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        81.604731993055395,
+                        28.8642411693369
+                    ],
+                    [
+                        81.577706733217596,
+                        28.849192949314201
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "NTA T1 Malika to NTA T5"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        81.660434240784497,
+                        28.783880432221601
+                    ],
+                    [
+                        81.641003976749204,
+                        28.802824893656702
+                    ]
+                ]
+            }
+        }
+    ]
+}

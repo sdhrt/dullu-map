@@ -1,0 +1,2709 @@
+{
+    "type": "points",
+    "name": "dullu_points",
+    "crs": {
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    81.543227,
+                    28.878268,
+                    774.02
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "100",
+                "Name": "100"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.543172,
+                    28.878257,
+                    777.66
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "101",
+                "Name": "101"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.573764,
+                    28.847468,
+                    1601.69
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "095",
+                "Name": "095"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.573761,
+                    28.847486,
+                    1608.21
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "096",
+                "Name": "096"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.560255,
+                    28.852165,
+                    1518.7
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "097",
+                "Name": "097"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.607354,
+                    28.864676,
+                    1434
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "098",
+                "Name": "098"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.6074,
+                    28.864766,
+                    1434.67
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "099",
+                "Name": "099"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.706223,
+                    28.906623,
+                    1318.02
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "093",
+                "Name": "093"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.568756,
+                    28.816956,
+                    1360.75
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "044",
+                "Name": "044"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.566227,
+                    28.849802,
+                    1576.26
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "045",
+                "Name": "045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.573592,
+                    28.86074899999999,
+                    1402.79
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "046",
+                "Name": "046"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.706237,
+                    28.906596,
+                    1318.89
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "094",
+                "Name": "094"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.543266,
+                    28.878294,
+                    777.1399999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "102",
+                "Name": "102"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.543243,
+                    28.878282,
+                    777.1
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "103",
+                "Name": "103"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.543278,
+                    28.878279,
+                    776.9
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "104",
+                "Name": "104"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.542359,
+                    28.876338,
+                    889.6699999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "105",
+                "Name": "105"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.542108,
+                    28.87423,
+                    950.09
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "106",
+                "Name": "106"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.541645,
+                    28.873382,
+                    982.5000000000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "107",
+                "Name": "107"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.54222,
+                    28.872656,
+                    1018.18
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "108",
+                "Name": "108"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.541455,
+                    28.870845,
+                    1093.15
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "109",
+                "Name": "109"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.541469,
+                    28.87084,
+                    1096.55
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "110",
+                "Name": "110"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.541449,
+                    28.87085,
+                    1095.32
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "111",
+                "Name": "111"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.541457,
+                    28.87087,
+                    1095.23
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "112",
+                "Name": "112"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.542956,
+                    28.869149,
+                    1159.88
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "113",
+                "Name": "113"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.543698,
+                    28.867636,
+                    1198.2
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "114",
+                "Name": "114"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.543761,
+                    28.867675,
+                    1198.98
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "115",
+                "Name": "115"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.61615333752353,
+                    28.88960385553076,
+                    1439.4
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "DHULESWAR",
+                "Name": "Dhuleshwor"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.616378,
+                    28.8896,
+                    1404.17
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "DHU",
+                "Name": "DHU"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.618132,
+                    28.888429,
+                    1305.47
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "BARMAKUNDA",
+                "Name": "BARMAKUNDA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.622535,
+                    28.894569,
+                    1294.91
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "121",
+                "Name": "121"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.61664439002817,
+                    28.88923400389391,
+                    1229.33
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "BANANGANG",
+                "Name": "BANANGANG"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.616409,
+                    28.89384,
+                    1232.37
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "BANAA",
+                "Name": "BANAA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.630698,
+                    28.896373,
+                    1206.68
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "TRIBANI",
+                "Name": "TRIBANI"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.631066,
+                    28.895628,
+                    1206.34
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "TRIBENI",
+                "Name": "TRIBENI"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.636106,
+                    28.858861,
+                    904.13
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "RUDRALINGA",
+                "Name": "RUDRALINGA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.637508,
+                    28.858053,
+                    903.0399999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "HADECHAWAR",
+                "Name": "HADECHAWAR"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.636959,
+                    28.856619,
+                    908.3299999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "BAR",
+                "Name": "BAR"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.637631,
+                    28.856586,
+                    911.45
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "BARHA",
+                "Name": "BARHA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.647004,
+                    28.853259,
+                    869.0600000000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "KAPHALA",
+                "Name": "KAPHALA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.647342,
+                    28.853029,
+                    869.3400000000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "BHISEM",
+                "Name": "BHISEM"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.648783,
+                    28.849083,
+                    863.8899999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "TILAKGUPHA",
+                "Name": "TILAKGUPHA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.648896,
+                    28.848789,
+                    851.7600000000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "LOMAS",
+                "Name": "LOMAS"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.648616,
+                    28.848396,
+                    855.18
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "SATIPIPAL",
+                "Name": "SATIPIPAL"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.649862,
+                    28.847868,
+                    850.39
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "KARMABHUMI",
+                "Name": "KARMABHUMI"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.666103,
+                    28.847262,
+                    792.28
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "NABISTAN TEMPLE",
+                "Name": "NABISTAN TEMPLE"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.666067,
+                    28.847531,
+                    790.57
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "INDRA JAWALA",
+                "Name": "INDRA JAWALA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.6662,
+                    28.847082,
+                    790.4599999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "BADI JAWALA",
+                "Name": "BADI JAWALA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.666167,
+                    28.847128,
+                    791.8699999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "BADIJWALA",
+                "Name": "BADIJWALA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.666062,
+                    28.847255,
+                    790.0199999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "KOTH GHAR",
+                "Name": "KOTH GHAR"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.666104,
+                    28.847108,
+                    791.1499999999997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "GAUSALA",
+                "Name": "GAUSALA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.666261,
+                    28.846987,
+                    790.5299999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "NABI CHAKRA",
+                "Name": "NABI CHAKRA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.666146,
+                    28.84701,
+                    790.57
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "MANSANTH",
+                "Name": "MANSANTH"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.666051,
+                    28.846703,
+                    790.42
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "SAWAMI TREE",
+                "Name": "SAWAMI TREE"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.670906,
+                    28.843667,
+                    809.0899999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "DHURGHU TIRTHA",
+                "Name": "DHURGHU TIRTHA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.673082,
+                    28.842304,
+                    759.41
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "KEDAR",
+                "Name": "KEDAR"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.676676,
+                    28.840813,
+                    757.11
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "SHEESTAN",
+                "Name": "SHEESTAN"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.676575,
+                    28.840849,
+                    757.7
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "SHABA TEMPLE",
+                "Name": "SHABA TEMPLE"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.676545,
+                    28.840808,
+                    756.9
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "MUL JAWALA",
+                "Name": "MUL JAWALA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.676354,
+                    28.840901,
+                    754.57
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "KAL JAWALA",
+                "Name": "KAL JAWALA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.676218,
+                    28.84054799999999,
+                    752.8099999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "SHETAL JAWALA",
+                "Name": "SHETAL JAWALA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.677931,
+                    28.839981,
+                    747.97
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "GHARAT KUNDA",
+                "Name": "GHARAT KUNDA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.676114,
+                    28.836638,
+                    758.08
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "LALAT TIRTHA",
+                "Name": "LALAT TIRTHA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.676243,
+                    28.835048,
+                    740.97
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "KARSARI NASIKA CHAKSHU",
+                "Name": "KARSARI NASIKA CHAKSHU"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.685478,
+                    28.820498,
+                    734.76
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "KOTESHOR KOTELA",
+                "Name": "KOTESHOR KOTELA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.58066,
+                    28.780631,
+                    580.08
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "DUNGALMANDER",
+                "Name": "DUNGALMANDER"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.580573,
+                    28.780977,
+                    586.32
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "MAHEDEV SIDDASHOR",
+                "Name": "MAHEDEV SIDDASHOR"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.525109,
+                    28.867893,
+                    609.29
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "LAMADUWALA",
+                "Name": "LAMADUWALA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    82.445269,
+                    27.364253,
+                    768.52
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "HANSAJAWALA",
+                "Name": "HANSAJAWALA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.564582,
+                    28.903243,
+                    776.61
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "BISNU PADUKA",
+                "Name": "BISNU PADUKA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.615264,
+                    28.949398,
+                    1136.86
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "BHAIRABI TEMPL",
+                "Name": "BHAIRABI TEMPLE"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.615164,
+                    28.949441,
+                    1131.71
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "BHAIRABI",
+                "Name": "BHAIRABI"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.67037,
+                    28.787438,
+                    1177.43
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "KUWADHARA  WARD 12",
+                "Name": "KUWADHARA  WARD 12"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.650513,
+                    28.780634,
+                    1164.82
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "BEURADA   WARD NO 12",
+                "Name": "BEURADA WARD NO 12"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.596594,
+                    28.839478,
+                    1376.74
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "BARATDI",
+                "Name": "165"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.602781,
+                    28.851661,
+                    1589.94
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "SIDDESTHALI MANDIR",
+                "Name": "166"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.642842,
+                    28.805657,
+                    1645.47
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "MALATI GANGA",
+                "Name": "167"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.648151,
+                    28.802425,
+                    1634.49
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "SIDDAGANGA",
+                "Name": "168"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.638442,
+                    28.800767,
+                    1779.05
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "MALIKAGUFA",
+                "Name": "169"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.640617,
+                    28.802715,
+                    1849.25
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "MALIKA MANDIR",
+                "Name": "170"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.606427,
+                    28.864218,
+                    1411.52
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "DHARMAGADHI",
+                "Name": "171"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.608764,
+                    28.87814,
+                    1415.94
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "BALESHWOR MANDAR",
+                "Name": "172"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.640457,
+                    28.824517,
+                    1188.06
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "CHHUWAALAA",
+                "Name": "021"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.607,
+                    28.864976,
+                    1450.55
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "016",
+                "Name": "016"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.577417,
+                    28.848932,
+                    1764.43
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "012",
+                "Name": "012"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.577399,
+                    28.84894,
+                    1768.68
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "011",
+                "Name": "011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.552099,
+                    28.830357,
+                    913.2899999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "010",
+                "Name": "010"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.60936,
+                    28.866723,
+                    1450.67
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "RVT1",
+                "Name": "RVT1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.608889,
+                    28.877963,
+                    1399.56
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "RVT2",
+                "Name": "RVT2"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.652534,
+                    28.790806,
+                    1514.64
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "IAKHAMARI WATER",
+                "Name": "001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.654646,
+                    28.790691,
+                    1555.13
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "002",
+                "Name": "002"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.654646,
+                    28.790692,
+                    1555.14
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "RVT1",
+                "Name": "003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.655074,
+                    28.791709,
+                    1579.9
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "RVT2",
+                "Name": "004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.615264,
+                    28.949398,
+                    1136.86
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "BHAIRABI TEMPL",
+                "Name": "163"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.615164,
+                    28.949441,
+                    1131.71
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "BHAIRABI",
+                "Name": "164"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.596594,
+                    28.839478,
+                    1376.74
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "BARATDI",
+                "Name": "165"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.602781,
+                    28.851661,
+                    1589.94
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "SIDDESTHALI MANDIR",
+                "Name": "166"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.642842,
+                    28.805657,
+                    1645.47
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "MALATI GANGA",
+                "Name": "167"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.648151,
+                    28.802425,
+                    1634.49
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "SIDDAGANGA",
+                "Name": "168"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.638442,
+                    28.800767,
+                    1779.05
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "MALIKAGUFA",
+                "Name": "169"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.640617,
+                    28.802715,
+                    1849.25
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "MALIKA MANDIR",
+                "Name": "170"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.606427,
+                    28.864218,
+                    1411.52
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "DHARMAGADHI",
+                "Name": "171"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.608764,
+                    28.87814,
+                    1415.94
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "BALESHWOR MANDAR",
+                "Name": "172"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.655428,
+                    28.792342,
+                    1597.71
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "RVT3",
+                "Name": "005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.619528,
+                    28.891555,
+                    1395.88
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "RVT1",
+                "Name": "006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.616943,
+                    28.890796,
+                    1352.97
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "007",
+                "Name": "007"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.616941,
+                    28.890792,
+                    1349.15
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "RVT2",
+                "Name": "008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.61641,
+                    28.889596,
+                    1407.42
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "RVT3",
+                "Name": "009"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.619903,
+                    28.891416,
+                    1345.77
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "013",
+                "Name": "013"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.61741,
+                    28.890921,
+                    1345.26
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "014",
+                "Name": "014"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.617388,
+                    28.890881,
+                    1346.3
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "015",
+                "Name": "015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.608891,
+                    28.877939,
+                    1383.91
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "017",
+                "Name": "017"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.607587,
+                    28.865282,
+                    1385.13
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "018",
+                "Name": "018"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.541311,
+                    28.888504,
+                    842.5999999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "031",
+                "Name": "031"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.59438,
+                    28.858853,
+                    1242.5
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "032",
+                "Name": "032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.590675,
+                    28.856032,
+                    1279.72
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "033",
+                "Name": "033"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.613796,
+                    28.876882,
+                    1270.67
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "034",
+                "Name": "034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.61347,
+                    28.877457,
+                    1273.49
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "035",
+                "Name": "035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.61271,
+                    28.880593,
+                    1284.46
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "036",
+                "Name": "036"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.619544,
+                    28.814034,
+                    1445.33
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "037",
+                "Name": "037"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.617126,
+                    28.800048,
+                    1526.8
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "038",
+                "Name": "038"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.650522,
+                    28.780679,
+                    1158.81
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "023",
+                "Name": "023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.607576,
+                    28.865293,
+                    1404.37
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "019",
+                "Name": "019"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.607584,
+                    28.865297,
+                    1405.14
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "020",
+                "Name": "020"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.640458,
+                    28.824526,
+                    1188.27
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "022",
+                "Name": "022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.638402,
+                    28.818753,
+                    1258.82
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "025",
+                "Name": "025"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.647049,
+                    28.81479,
+                    1248.26
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "026",
+                "Name": "026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.657693,
+                    28.811407,
+                    1154.78
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "027",
+                "Name": "027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.664834,
+                    28.800238,
+                    1142.09
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "028",
+                "Name": "028"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.577827,
+                    28.792488,
+                    698.7
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "039",
+                "Name": "039"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.585309,
+                    28.825448,
+                    1201.37
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "040",
+                "Name": "040"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.636289,
+                    28.816558,
+                    1349.19
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "041",
+                "Name": "041"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.61389,
+                    28.851745,
+                    1292.88
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "042",
+                "Name": "042"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.599766,
+                    28.821559,
+                    1200.17
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "043",
+                "Name": "043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.622147,
+                    28.784718,
+                    1069.89
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "029",
+                "Name": "029"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.653348,
+                    28.796651,
+                    1579.36
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "049",
+                "Name": "049"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.655606,
+                    28.820741,
+                    1125.13
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "050",
+                "Name": "050"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.662361,
+                    28.81850499999999,
+                    1095.48
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "051",
+                "Name": "051"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.672086,
+                    28.805491,
+                    1024.01
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "052",
+                "Name": "052"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.675089,
+                    28.79126,
+                    1061.86
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "053",
+                "Name": "053"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.669332,
+                    28.785906,
+                    1248.71
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "054",
+                "Name": "054"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.666777,
+                    28.784892,
+                    1283.34
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "055",
+                "Name": "055"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.66505,
+                    28.78434,
+                    1335.67
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "056",
+                "Name": "056"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.65594,
+                    28.776599,
+                    1312.39
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "057",
+                "Name": "057"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.660437,
+                    28.782599,
+                    1495.73
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "058",
+                "Name": "058"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.660509,
+                    28.782415,
+                    1500.96
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "059",
+                "Name": "059"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.630512,
+                    28.790453,
+                    1389.14
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "060",
+                "Name": "060"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.639788,
+                    28.787989,
+                    1551.47
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "061",
+                "Name": "061"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.632067,
+                    28.823882,
+                    1442.09
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "062",
+                "Name": "062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.631309,
+                    28.829971,
+                    1433.26
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "063",
+                "Name": "063"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.631356,
+                    28.82994,
+                    1432.75
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "064",
+                "Name": "064"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.622432,
+                    28.816096,
+                    1466.3
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "065",
+                "Name": "065"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.612294,
+                    28.814233,
+                    1378.65
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "066",
+                "Name": "066"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.651905,
+                    28.795783,
+                    1606.97
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "067",
+                "Name": "067"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.654357,
+                    28.793809,
+                    1615.78
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "068",
+                "Name": "068"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.583596,
+                    28.835459,
+                    1514.33
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "069",
+                "Name": "069"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.579909,
+                    28.855734,
+                    1461.88
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "070",
+                "Name": "070"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.568293,
+                    28.866722,
+                    1352.26
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "071",
+                "Name": "071"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.609304,
+                    28.872187,
+                    1372
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "073",
+                "Name": "073"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.606422,
+                    28.864882,
+                    1397.3
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "074",
+                "Name": "074"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.606539,
+                    28.8648,
+                    1401.72
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "075",
+                "Name": "075"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.603218,
+                    28.851546,
+                    1588.12
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "076",
+                "Name": "076"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.603153,
+                    28.851606,
+                    1589.72
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "077",
+                "Name": "077"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.603992,
+                    28.852798,
+                    1543.61
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "078",
+                "Name": "078"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.610862,
+                    28.849922,
+                    1445.8
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "079",
+                "Name": "079"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.623337,
+                    28.841617,
+                    1315.36
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "080",
+                "Name": "080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.624841,
+                    28.837105,
+                    1372.7
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "081",
+                "Name": "081"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.666088,
+                    28.847243,
+                    800.6799999999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "082",
+                "Name": "082"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.641265,
+                    28.824428,
+                    1189.27
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "083",
+                "Name": "083"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.652123,
+                    28.814506,
+                    1316.52
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "084",
+                "Name": "084"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.639069,
+                    28.800216,
+                    1780.39
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "085",
+                "Name": "085"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.640605,
+                    28.802711,
+                    1863.62
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "086",
+                "Name": "086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.580507,
+                    28.780554,
+                    574.95
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "087",
+                "Name": "087"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.580087,
+                    28.780139,
+                    561.69
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "088",
+                "Name": "088"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.581598,
+                    28.782742,
+                    616.92
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "089",
+                "Name": "089"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.580706,
+                    28.820732,
+                    1354.41
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "090",
+                "Name": "090"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.6042,
+                    28.86483399999999,
+                    1345.48
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "091",
+                "Name": "091"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.604258,
+                    28.864873,
+                    1342.77
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "092",
+                "Name": "092"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.595861,
+                    28.852708,
+                    1488.41
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "072",
+                "Name": "072"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.629761,
+                    28.78019,
+                    1039.59
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "030",
+                "Name": "030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.564401,
+                    28.903038,
+                    787.7599999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "KALSAINI",
+                "Name": "KALSAINI"
+            },
+            "type": "Feature"
+        }
+    ]
+}
