@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "IoT NN Project",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "NN BS1 NOC" }, "geometry": { "type": "Point", "coordinates": [ 81.6035019981868, 28.857744535777702 ] } },
+{ "type": "Feature", "properties": { "Name": "NN BS2 at Dullu Hospital" }, "geometry": { "type": "Point", "coordinates": [ 81.603951784259607, 28.85258260774 ] } },
+{ "type": "Feature", "properties": { "Name": "NN BS3 at Ward 13" }, "geometry": { "type": "Point", "coordinates": [ 81.628401327987604, 28.789124426260301 ] } },
+{ "type": "Feature", "properties": { "Name": "IoT Sensor 1" }, "geometry": { "type": "LineString", "coordinates": [ [ 81.542687178782799, 28.828450329035199 ], [ 81.577531620528802, 28.848876156158799 ] ] } },
+{ "type": "Feature", "properties": { "Name": "IoT Sensor 2" }, "geometry": { "type": "LineString", "coordinates": [ [ 81.626383435295196, 28.7705473333796 ], [ 81.627766959307905, 28.788761390765 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Lehare River Point" }, "geometry": { "type": "Point", "coordinates": [ 81.626499702338705, 28.769021345510399 ] } }
+]
+}

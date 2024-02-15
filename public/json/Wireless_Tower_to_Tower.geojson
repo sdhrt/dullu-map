@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Wireless Tower to Tower",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Dullu Municipality T3 to T1 Malika" }, "geometry": { "type": "LineString", "coordinates": [ [ 81.603096262593994, 28.8582503714903 ], [ 81.641023122368296, 28.802837004523099 ] ] } }
+]
+}

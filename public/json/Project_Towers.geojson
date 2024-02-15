@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Project Towers",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "T1 Malika Danda" }, "geometry": { "type": "Point", "coordinates": [ 81.6409713787736, 28.802842944030001 ] } },
+{ "type": "Feature", "properties": { "Name": "T2 Kot Thala" }, "geometry": { "type": "Point", "coordinates": [ 81.578237517114403, 28.848557736662698 ] } },
+{ "type": "Feature", "properties": { "Name": "T3 Dullu Municipality" }, "geometry": { "type": "Point", "coordinates": [ 81.603628583853094, 28.8578109412746 ] } }
+]
+}
