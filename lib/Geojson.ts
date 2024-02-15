@@ -6,11 +6,11 @@ export interface TypeList {
 }
 
 function DeclareEachJSON(): TypeList {
-    const fileNames = fs.readdirSync(readPath).filter(file => file.match(/\.json$/))
+    const fileNames = fs.readdirSync(readPath).filter(file => file.match(/\.geojson$/))
     const typeList: TypeList = {}
 
     fileNames.forEach((fileName: string) => {
-        let typeName = fileName.match(/(^.*?)\.json/)
+        let typeName = fileName.match(/(^.*?)\.geojson/)
         if (typeName) {
             typeList[typeName[1]] = JSON.parse(fs.readFileSync(readPath + fileName, 'utf8').toString())
         }

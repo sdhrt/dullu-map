@@ -17,9 +17,9 @@ export default function GeoJsonParse(props: any[]) {
 
     const setColor = (obj: any): any => {
         if (obj.geometry.type == "LineString") {
-            return {
-                color: (colorMap.get(props[1])),
-            }
+            // return {
+            //     color: (colorMap.get(props[1])),
+            // }
         }
     };
 

@@ -13,11 +13,9 @@ interface visibility_type {
 }
 
 export default function Map(props: Array<JSON>) {
-
     const coord: LatLngExpression = [28.8527, 81.5816]
     const data = props;
     const [visibility, setVisiblity] = useState<visibility_type | any>({})
-
 
     useEffect(() => {
         for (let point in data) {
