@@ -5,6 +5,7 @@ export interface TypeList {
     [key: string]: string[] // adjusting require this in order to some json data type
 }
 
+
 function DeclareEachJSON(): TypeList {
     const fileNames = fs.readdirSync(readPath).filter(file => file.match(/\.geojson$/))
     const typeList: TypeList = {}

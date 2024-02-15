@@ -10,18 +10,10 @@ import defaultIcon from "@/public/icons/default.svg"
 export default function GeoJsonParse(props: any[]) {
 
     function popUp(feature: any, layer: any) {
-        layer.bindPopup(feature.properties.Name);
-    }
-
-    const colorMap: Map<String, String> = new Map([["routes", "#FF0000"], ["IoT_NN_Project", "#0047AB"], ["Wireless_Tower_to_Tower", "#FFFF00"], ["OFC_Routes", "#800080"]])
-
-    const setColor = (obj: any): any => {
-        if (obj.geometry.type == "LineString") {
-            // return {
-            //     color: (colorMap.get(props[1])),
-            // }
+        if (feature.geometry.type != "Polygon") { // The dataset doesn't have name for wards i.e. polygons
+            layer.bindPopup(feature.properties.Name);
         }
-    };
+    }
 
     const convert = (props: string): L.Icon => {
         return L.icon({
@@ -35,11 +27,12 @@ export default function GeoJsonParse(props: any[]) {
 
     function marker(__geoJson: any, latlang: LatLng): Layer {
         let current;
-        if (props[0] == 'schools') {
+        console.log(props[1])
+        if (props[1] == "Dullu Schools") {
             current = (schoolIcon);
-        } else if (props[0] == "tower") {
+        } else if (props[1] == "Project Towers") {
             current = (towerIcon);
-        } else if (props[0] == "server") {
+        } else if (props[1] == "IoT NN Project") {
             current = (serverIcon)
         } else {
             current = (defaultIcon);
@@ -47,8 +40,7 @@ export default function GeoJsonParse(props: any[]) {
 
         return L.marker(latlang, { icon: convert(current.src) })
     }
-    console.log(props)
 
-    return (<GeoJSON data={props[3]} style={setColor} onEachFeature={popUp} pointToLayer={marker} />)
+    return (<GeoJSON data={props[3]} onEachFeature={popUp} pointToLayer={marker} />)
 
 }
